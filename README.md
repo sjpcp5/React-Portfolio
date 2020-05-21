@@ -20,4 +20,4 @@ Personal web developer portfolio built with React.js.
 
 ## Demo
 
-[Link to deployed app]()
+[Link to deployed app](https://peaceful-citadel-89919.herokuapp.com/)
