@@ -97,20 +97,29 @@ export default class Aboutus extends Component {
                         <h5 className="title-left">About me</h5>
                       </div>
                       <p className="lead">
-                        As a Marine veteran, I am a courageous adventurer who
-                        has seen both the nice and dangerous places of the
+                        I am a Full Stack Developer , Geographer, and Marine
+                        veteran who is a courageous adventurer who has seen the
                         world. My world view gives me a unique perspective when
-                        working with teams to find solutions.
+                        working with diverse teams to find creative solutions.
+                        My technical skills include MongoDB/Sequelize,
+                        Express.js, React.js, Node.js, and Geographic
+                        Information Systems.
                       </p>
                       <p className="lead">
-                        Currently working for the Department of the Army, U.S.
-                        Army Corps of Engineers, Kansas City, Missouri, as a
-                        Developer and Geographer.
+                        When the team had conflicting ideas on how to move
+                        forward and organize our effort for the model view
+                        controller app Campbell Wood Designs. I wrote our
+                        application features according to our customer’s needs,
+                        shared with my team, consulted the team on task
+                        distribution and transferred the tasks to kanban in our
+                        project’s Github repository.
                       </p>
                       <p className="lead">
-                        I find programming incorporates my world view with my
-                        problem solving skills, allowing me to dream of one day
-                        landing on the moon.
+                        I am a recent graduate of the University of Kansas
+                        Full-Stack Web Development bootcamp. Currently working
+                        for the U.S. Army Corps of Engineers, in Kansas City,
+                        Missouri. I find programming incorporates my world view
+                        with exciting puzzles to solve world problems.
                       </p>
                     </div>
                   </div>
