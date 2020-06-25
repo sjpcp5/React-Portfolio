@@ -10,85 +10,12 @@ export default class Aboutus extends Component {
               <div className="box-shadow-full">
                 <div className="row">
                   <div className="col-md-6">
-                    <div className="row">
-                      <div className="col-sm-6 col-md-5">
-                        <div className="about-img">
-                          <img
-                            src="assets/profile.jpeg"
-                            className="img-fluid rounded b-shadow-a"
-                            alt=""
-                          />
-                        </div>
-                      </div>
-                      <div className="col-sm-6 col-md-7">
-                        <div className="about-info">
-                          <p>
-                            <span className="title-s">Name: </span>
-                            <span>Saphirah Pociluyko</span>
-                          </p>
-                          <p>
-                            <span className="title-s">Profile: </span>
-                            <span>Full Stack Developer</span>
-                          </p>
-                          <p>
-                            <span className="title-s">Email: </span>
-                            <span>sjpcp5@gmail.com</span>
-                          </p>
-                          <p>
-                            <span className="title-s">Phone: </span>
-                            <span>(757) 310-9650</span>
-                          </p>
-                        </div>
-                      </div>
-                    </div>
-                    <div className="skill-mf">
-                      <p className="title-s">Skill</p>
-                      <span>MongoDB-MySQL</span>
-                      <span className="pull-right">85%</span>
-                      <div className="progress">
-                        <div
-                          className="progress-bar"
-                          role="progressbar"
-                          style={{ width: "85%" }}
-                          aria-valuenow={85}
-                          aria-valuemin={0}
-                          aria-valuemax={100}
-                        />
-                      </div>
-                      <span>Express</span>
-                      <span className="pull-right">90%</span>
-                      <div className="progress">
-                        <div
-                          className="progress-bar"
-                          role="progressbar"
-                          style={{ width: "90%" }}
-                          aria-valuenow={95}
-                          aria-valuemin={0}
-                          aria-valuemax={100}
-                        />
-                      </div>
-                      <span>React</span> <span className="pull-right">90%</span>
-                      <div className="progress">
-                        <div
-                          className="progress-bar"
-                          role="progressbar"
-                          style={{ width: "80%" }}
-                          aria-valuenow={80}
-                          aria-valuemin={0}
-                          aria-valuemax={100}
-                        />
-                      </div>
-                      <span>Node</span> <span className="pull-right">90%</span>
-                      <div className="progress">
-                        <div
-                          className="progress-bar"
-                          role="progressbar"
-                          style={{ width: "90%" }}
-                          aria-valuenow={90}
-                          aria-valuemin={0}
-                          aria-valuemax={100}
-                        />
-                      </div>
+                    <div className="about-img">
+                      <img
+                        src="assets/profile.jpeg"
+                        className="img-fluid rounded b-shadow-a"
+                        alt=""
+                      />
                     </div>
                   </div>
                   <div className="col-md-6">

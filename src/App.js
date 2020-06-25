@@ -6,7 +6,6 @@ import Portfolio from "./components/portfolio";
 import ServiceCounter from "./components/service";
 import Resume from "./components/resume";
 import SectionFooter from "./components/sectionFooter";
-import Contact from "./components/contactus";
 import Footer from "./components/footer";
 import "./App.css";
 import Contactus from "./components/contactus";

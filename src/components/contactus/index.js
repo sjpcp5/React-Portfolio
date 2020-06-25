@@ -26,10 +26,8 @@ export default class Contactus extends Component {
                           </span>
                         </li>
                         <li>
-                          <span className="ion-ios-telephone" /> 757-310-9650
-                        </li>
-                        <li>
-                          <span className="ion-email" /> sjpcp5@gmail.com
+                          <span className="ion-email" />
+                          <a href="mailto:sjpcp5@gmail.com">sjpcp5@gmail.com</a>
                         </li>
                       </ul>
                     </div>

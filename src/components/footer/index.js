@@ -9,9 +9,9 @@ export default class Footer extends Component {
             <div className="col-sm-12">
               <div className="copyright-box">
                 <p className="copyright">
-                  © Copyright <strong>Engage</strong>. All Rights Reserved
+                  Copyright @ 2020 <strong>Clever Ciphers</strong>. All Rights
+                  Reserved
                 </p>
-                <div className="credits">Designed with Bootstrap</div>
               </div>
             </div>
           </div>
