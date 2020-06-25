@@ -54,13 +54,13 @@ export default class Contactus extends Component {
                             </span>
                           </a>
                         </li>
-                        <li>
+                        {/* <li>
                           <a href="../../assets/Pociluyko_DevResume2020.pdf">
                             <span className="ico-circle">
                               <i className="ion-document-text" />
                             </span>
                           </a>
-                        </li>
+                        </li> */}
                       </ul>
                     </div>
                   </div>
