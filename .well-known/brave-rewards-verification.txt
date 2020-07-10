@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: cleverciphers.dev
+Token: 7f1b148ea062267cbf8ac9d8306448ee8db924cca593f464b96767d1c6192172
