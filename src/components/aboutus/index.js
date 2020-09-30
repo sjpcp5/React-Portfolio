@@ -33,16 +33,10 @@ export default class Aboutus extends Component {
                         Information Systems.
                       </p>
                       <p className="lead">
-                        When the team had conflicting ideas on how to move
-                        forward and organize our effort for the model view
-                        controller app Campbell Wood Designs. I wrote our
-                        application features according to our customer’s needs,
-                        shared with my team, consulted the team on task
-                        distribution and transferred the tasks to kanban in our
-                        project’s Github repository.
+
                       </p>
                       <p className="lead">
-                        I am a recent graduate of the University of Kansas
+                        I am a graduate of the University of Kansas
                         Full-Stack Web Development bootcamp. Currently working
                         for the U.S. Army Corps of Engineers, in Kansas City,
                         Missouri. I find programming incorporates my world view
