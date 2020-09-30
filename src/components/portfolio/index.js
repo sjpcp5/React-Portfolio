@@ -45,7 +45,7 @@ export default class Portfolio extends Component {
                         <div className="overlay-text">
                           <a
                             href="https://github.com/maidelrego/Final_Project"
-                            target="_blank"
+                            target="_blank" rel="noopener"
                           >
                             <span className="ico-circle-symbol">
                               <i className="ion-social-github">
@@ -61,7 +61,7 @@ export default class Portfolio extends Component {
                         <div className="overlay-text">
                           <a
                             href="http://www.campbellwooddesigns.com/"
-                            target="_blank"
+                            target="_blank" rel="noopener"
                           >
                             <span className="ion-ios-plus-outline">
                               <h6 className="tooltiptext">See Demo</h6>
@@ -99,7 +99,7 @@ export default class Portfolio extends Component {
                           ></a>
                           <a
                             href="https://github.com/sjpcp5/DayPlanner"
-                            target="_blank"
+                            target="_blank" rel="noopener"
                           >
                             <span className="ico-circle-symbol">
                               <i className="ion-social-github">
@@ -115,7 +115,7 @@ export default class Portfolio extends Component {
                         <div className="overlay-text">
                           <a
                             href="https://sjpcp5.github.io/DayPlanner/"
-                            target="_blank"
+                            target="_blank" rel="noopener"
                           >
                             <span className="ion-ios-plus-outline">
                               <h6 className="tooltiptext">See Demo</h6>
@@ -164,7 +164,7 @@ export default class Portfolio extends Component {
 
                           <a
                             href="https://github.com/sjpcp5/Project2"
-                            target="_blank"
+                            target="_blank" rel="noopener"
                           >
                             <span className="ico-circle-symbol">
                               <i className="ion-social-github">
@@ -180,7 +180,7 @@ export default class Portfolio extends Component {
                         <div className="overlay-text">
                           <a
                             href="https://project2-coolbeanzzzzz.herokuapp.com/"
-                            target="_blank"
+                            target="_blank" rel="noopener"
                           >
                             <span className="ion-ios-plus-outline">
                               <h6 className="tooltiptext">See Demo</h6>
@@ -226,7 +226,7 @@ export default class Portfolio extends Component {
                         <div className="overlay-text">
                           <a
                             href="https://github.com/sjpcp5/GithubProfile_PDF"
-                            target="_blank"
+                            target="_blank" rel="noopener"
                           >
                             <span className="ico-circle-symbol">
                               <i className="ion-social-github">
@@ -242,7 +242,7 @@ export default class Portfolio extends Component {
                         <div className="overlay-text">
                           <a
                             href="https://youtu.be/vvGSLmdKlfk"
-                            target="_blank"
+                            target="_blank" rel="noopener"
                           >
                             <span className="ion-ios-plus-outline">
                               <h6 className="tooltiptext">See Demo</h6>
@@ -286,7 +286,7 @@ export default class Portfolio extends Component {
                         <div className="overlay-text">
                           <a
                             href="https://github.com/sjpcp5/DnDMonsterDex"
-                            target="_blank"
+                            target="_blank" rel="noopener"
                           >
                             <span className="ico-circle-symbol">
                               <i className="ion-social-github">
@@ -302,7 +302,7 @@ export default class Portfolio extends Component {
                         <div className="overlay-text">
                           <a
                             href="https://sjpcp5.github.io/DnDMonsterDex"
-                            target="_blank"
+                            target="_blank" rel="noopener"
                           >
                             <span className="ion-ios-plus-outline">
                               <h6 className="tooltiptext">See Demo</h6>
@@ -348,7 +348,7 @@ export default class Portfolio extends Component {
 
                           <a
                             href="https://github.com/sjpcp5/TeamRoster"
-                            target="_blank"
+                            target="_blank" rel="noopener"
                           >
                             <span className="ico-circle-symbol">
                               <i className="ion-social-github">
@@ -364,7 +364,7 @@ export default class Portfolio extends Component {
                         <div className="overlay-text">
                           <a
                             href="https://youtu.be/QEHoLxdUpDc"
-                            target="_blank"
+                            target="_blank" rel="noopener"
                           >
                             <span className="ion-ios-plus-outline">
                               <h6 className="tooltiptext">See Demo</h6>
